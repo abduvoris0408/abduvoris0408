@@ -199,7 +199,7 @@ const abduvoris: Developer = {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abduvoris0408&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abduvoris0408&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
 
 </div>
 
